@@ -1,2 +1,2 @@
 # dee-first
-My first repository with student's projects after Yandex-Data-Analysys
+Project 2. Identification of patterns determining the success of computer games and the platforms on which they are released.
