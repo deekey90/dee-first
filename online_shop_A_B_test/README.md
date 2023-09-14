@@ -1,2 +1,2 @@
 # dee-first
-My first repository with student's projects after Yandex-Data-Analysys
+Project 4. Prioritizing hypotheses, conducting A/B tests, and analyzing results for an online store.
