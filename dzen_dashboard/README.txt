@@ -1,3 +1,5 @@
+Project 7. Development of a dashboard based on a pipeline that will retrieve data from a table containing raw data, transform the data, and place them into an aggregated table.
+
 Проект в рамках обучения в Яндекс.Практикум.
 Тема: Карточки статей на Дзене.
 Описание: Анализ взаимодействия пользователей с карточками Дзена
