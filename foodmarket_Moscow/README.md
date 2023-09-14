@@ -1,2 +1,2 @@
 # dee-first
-My first repository with student's projects after Yandex-Data-Analysys
+Project 6. Preparing a real estate market research in Moscow, presenting the obtained results, and developing recommendations for opening a coffee shop.
