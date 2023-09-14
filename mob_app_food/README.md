@@ -1,2 +1,2 @@
 # dee-first
-My first repository with student's projects after Yandex-Data-Analysys
+Project 5. Studying user behavior in an online food product service application, creating a sales funnel, and analyzing the results of an A/A/B test.
