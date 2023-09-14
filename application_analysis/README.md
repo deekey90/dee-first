@@ -1,2 +1,2 @@
 # dee-first
-Project 1. Research data analysis that will help identify the parameters influencing the price of real estate properties in St. Petersburg
+Project 3. Searching for the reasons for the inefficiency of the advertising campaign for the application.
